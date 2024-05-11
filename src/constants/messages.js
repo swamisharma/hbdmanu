@@ -13,7 +13,16 @@ const messages = [
   // ['You are', 'the lorem', 'to my ipsum'],
   // ['I am', 'font of you'],
   // ['You had', 'me  at', 'hello world'],
-  ['Hello', 'World']
+  ['You are the most precious thing I can ever have', ' your eyes your smile, ', 'Teri bakchodi makes me forget all my problems'],
+  ['Everything about you is soo special...'],
+  ['Your kirkiri'],
+  ['Your smile'],
+  ['Your crying'],
+  ['Your smiling again'],
+  ['Your gussa'],
+  ['Your stupidity'],
+  ['Your stupidity'],
+  ['I lub U']
 ];
 
 module.exports = messages;
